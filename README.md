@@ -17,7 +17,7 @@ training code: '\MAAF\src\train_1.py'
 ﻿
 ﻿
 ## Dataset
-Obtain CMDC, DAIC_woz, SEARCH and AVEC_2014 datasets from official channels and put them into the datasets file.
+Obtain DAIC_woz, SEARCH and AVEC_2014 datasets from official channels and put them into the datasets file.
   
 Specific operation tips can be found in the datasets file.
   
@@ -27,4 +27,4 @@ Specific operation tips can be found in the datasets file.
 - 2: DAIC-WOZ数据集申请官网：https://dcapswoz.ict.usc.edu/ 下载打印协议签署后发送到boberg@ict.usc.edu
 -  数据处理流程：https://github.com/LIU70KG/daic_woz_processing_master
  
-- 3: SEARCH数据集：该数据集来源于南京脑科医院等多方机构合作进行的一项有关在校青少年心理健康长期变化追踪的研究。研究多阶段未完成，暂时未公开，后续将公开。公开后将进行更新申请链接。
+- 3: SEARCH数据集：该数据集来源于南京脑科医院等多方机构合作进行的一项有关在校青少年心理健康长期变化追踪的研究。研究多阶段未完成，暂时未公开，后续将公开。公开后将进行更新申请链接。数据处理流程：https://github.com/LIU70KG/SEARCH_process-master
