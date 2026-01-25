@@ -1,5 +1,3 @@
-# 作者：刘成广
-# 时间：2024/9/29 下午7:57
 # 使用frcrn，给音频文件去除背景噪声
 from modelscope.pipelines import pipeline
 from modelscope.utils.constant import Tasks
