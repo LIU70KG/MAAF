@@ -1,7 +1,3 @@
-# 作者：刘成广
-# 时间：2024/7/17 下午2:23
-# 作者：刘成广
-# 时间：2024/7/16 下午10:09
 import os
 import pickle
 import numpy as np
