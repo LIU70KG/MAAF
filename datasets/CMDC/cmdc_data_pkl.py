@@ -1,5 +1,3 @@
-# 作者：刘成广
-# 时间：2024/3/8 下午8:39
 import pickle
 import os
 import glob
