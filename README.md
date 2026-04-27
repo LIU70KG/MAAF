@@ -11,7 +11,7 @@ The relevant code for the paper "RAPF: Reliability-aware Prediction Fusion for M
 ## Train
 Operation process:
 ﻿
-training code: '\MAAF\src\train_1.py'
+training code: '\RAPF\src\train_1.py'
  
  
 ﻿
