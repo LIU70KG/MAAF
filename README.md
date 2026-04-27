@@ -1,6 +1,6 @@
 ### MAAF
 ﻿
-The relevant code for the paper "MAAF: Modality-adaptive Aware Fusion for Multimodal Depression Detection".
+The relevant code for the paper "RAPF: Reliability-aware Prediction Fusion for Multimodal Depression Detection".
 ﻿
 ## Requirements
 ﻿
