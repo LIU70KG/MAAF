@@ -1,4 +1,4 @@
-### MAAF
+### RAPF (PRCV2026)
 ﻿
 The relevant code for the paper "RAPF: Reliability-aware Prediction Fusion for Multimodal Depression Detection".
 ﻿
